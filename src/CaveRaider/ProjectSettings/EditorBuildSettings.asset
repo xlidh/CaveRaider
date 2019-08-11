@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/2DPlatformer/Scenes/Start.unity
+    guid: a918ec407225c9c41b309079fe300b1a
+  - enabled: 1
+    path: Assets/2DPlatformer/Scenes/FirstLevel.unity
+    guid: 48cdeeb4c26eb5841896aa7fa13ed7bc
+  - enabled: 1
+    path: Assets/2DPlatformer/Scenes/SecondLevel.unity
+    guid: 8547f4b6e0753164dbb6f7d43cef5982
+  - enabled: 1
+    path: Assets/2DPlatformer/Scenes/ThirdLevel.unity
+    guid: 802e1865d9a9ca44b8fffdd125a9a37c
+  - enabled: 1
+    path: Assets/2DPlatformer/Scenes/FirstLevelWelle.unity
+    guid: 7b582d6e4c9392c448420ab2d827d2a8
+  - enabled: 1
+    path: Assets/2DPlatformer/Scenes/SecondLevelWelle.unity
+    guid: 8186d9b7f06aa3c449cdc7225bc8ead2
+  - enabled: 1
+    path: Assets/2DPlatformer/Scenes/ThirdLevelWelle.unity
+    guid: 4046337fc9fc74f4a8f64240f4be27d2
